@@ -14,4 +14,5 @@ group :test do
   gem 'guard'
   gem 'guard-rspec'
   gem 'simplecov', :require => false
+  gem 'simplecov-lcov', :require => false, :github => 'ramonrails/simplecov-lcov'
 end

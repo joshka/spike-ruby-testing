@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/ramonrails/simplecov-lcov.git
+  revision: 1d4825fa741866c6b972f2734051169c44d88d0f
+  specs:
+    simplecov-lcov (0.6.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -87,6 +93,7 @@ DEPENDENCIES
   rspec
   rubocop
   simplecov
+  simplecov-lcov!
 
 BUNDLED WITH
    1.14.6

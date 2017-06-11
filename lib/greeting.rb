@@ -3,7 +3,7 @@ class Greeting
     'Hello World'
   end
 
-  def another
-    'Hell'
+  def simple_message
+    'Hello'
   end
 end
